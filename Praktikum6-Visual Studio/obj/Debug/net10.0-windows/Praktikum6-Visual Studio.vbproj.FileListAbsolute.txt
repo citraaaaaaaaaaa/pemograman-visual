@@ -1,0 +1,29 @@
+C:\Users\User\source\repos\New folder\Praktikum6-Visual Studio\Praktikum6-Visual Studio\obj\Debug\net10.0-windows\Praktikum6_Visual_Studio.Form1.resources
+C:\Users\User\source\repos\New folder\Praktikum6-Visual Studio\Praktikum6-Visual Studio\obj\Debug\net10.0-windows\Praktikum6-Visual Studio.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\New folder\Praktikum6-Visual Studio\Praktikum6-Visual Studio\obj\Debug\net10.0-windows\Praktikum6-Visual Studio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\Praktikum6-Visual Studio\Praktikum6-Visual Studio\obj\Debug\net10.0-windows\Praktikum6-Visual Studio.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\Praktikum6-Visual Studio\Praktikum6-Visual Studio\obj\Debug\net10.0-windows\Praktikum6-Visual Studio.AssemblyInfo.vb
+C:\Users\User\source\repos\New folder\Praktikum6-Visual Studio\Praktikum6-Visual Studio\obj\Debug\net10.0-windows\Praktikum6-Visual Studio.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\Praktikum6-Visual Studio\Praktikum6-Visual Studio\obj\Debug\net10.0-windows\Praktikum6-Visual Studio.vbproj.AssemblyReference.cache
+C:\Users\User\source\repos\New folder\Praktikum6-Visual Studio\Praktikum6-Visual Studio\bin\Debug\net10.0-windows\Praktikum6-Visual Studio.exe
+C:\Users\User\source\repos\New folder\Praktikum6-Visual Studio\Praktikum6-Visual Studio\bin\Debug\net10.0-windows\Praktikum6-Visual Studio.deps.json
+C:\Users\User\source\repos\New folder\Praktikum6-Visual Studio\Praktikum6-Visual Studio\bin\Debug\net10.0-windows\Praktikum6-Visual Studio.runtimeconfig.json
+C:\Users\User\source\repos\New folder\Praktikum6-Visual Studio\Praktikum6-Visual Studio\bin\Debug\net10.0-windows\Praktikum6-Visual Studio.dll
+C:\Users\User\source\repos\New folder\Praktikum6-Visual Studio\Praktikum6-Visual Studio\bin\Debug\net10.0-windows\Praktikum6-Visual Studio.pdb
+C:\Users\User\source\repos\New folder\Praktikum6-Visual Studio\Praktikum6-Visual Studio\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\User\source\repos\New folder\Praktikum6-Visual Studio\Praktikum6-Visual Studio\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\source\repos\New folder\Praktikum6-Visual Studio\Praktikum6-Visual Studio\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\User\source\repos\New folder\Praktikum6-Visual Studio\Praktikum6-Visual Studio\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\User\source\repos\New folder\Praktikum6-Visual Studio\Praktikum6-Visual Studio\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\New folder\Praktikum6-Visual Studio\Praktikum6-Visual Studio\bin\Debug\net10.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\source\repos\New folder\Praktikum6-Visual Studio\Praktikum6-Visual Studio\bin\Debug\net10.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\User\source\repos\New folder\Praktikum6-Visual Studio\Praktikum6-Visual Studio\bin\Debug\net10.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\User\source\repos\New folder\Praktikum6-Visual Studio\Praktikum6-Visual Studio\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\New folder\Praktikum6-Visual Studio\Praktikum6-Visual Studio\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\New folder\Praktikum6-Visual Studio\Praktikum6-Visual Studio\bin\Debug\net10.0-windows\Npgsql.dll
+C:\Users\User\source\repos\New folder\Praktikum6-Visual Studio\Praktikum6-Visual Studio\obj\Debug\net10.0-windows\Praktiku.891DF075.Up2Date
+C:\Users\User\source\repos\New folder\Praktikum6-Visual Studio\Praktikum6-Visual Studio\obj\Debug\net10.0-windows\Praktikum6-Visual Studio.dll
+C:\Users\User\source\repos\New folder\Praktikum6-Visual Studio\Praktikum6-Visual Studio\obj\Debug\net10.0-windows\refint\Praktikum6-Visual Studio.dll
+C:\Users\User\source\repos\New folder\Praktikum6-Visual Studio\Praktikum6-Visual Studio\obj\Debug\net10.0-windows\Praktikum6-Visual Studio.pdb
+C:\Users\User\source\repos\New folder\Praktikum6-Visual Studio\Praktikum6-Visual Studio\obj\Debug\net10.0-windows\Praktikum6-Visual Studio.genruntimeconfig.cache
+C:\Users\User\source\repos\New folder\Praktikum6-Visual Studio\Praktikum6-Visual Studio\obj\Debug\net10.0-windows\ref\Praktikum6-Visual Studio.dll
